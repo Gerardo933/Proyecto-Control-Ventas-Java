@@ -1,0 +1,16 @@
+SMAP
+listaAudiclientes_jsp.java
+JSP
+*S JSP
+*F
++ 0 listaAudiclientes.jsp
+WEB-INF/jsp/listaAudiclientes.jsp
+*L
+5,2:54
+11,43:56
+53:127,11
+54:138
+55,21:139,3
+76,2:202
+77,8:101
+*E

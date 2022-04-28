@@ -1,0 +1,10 @@
+SMAP
+altaClientes_jsp.java
+JSP
+*S JSP
+*F
++ 0 altaClientes.jsp
+WEB-INF/jsp/altaClientes.jsp
+*L
+1,48:44
+*E

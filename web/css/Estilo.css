@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cuerpoinicio{
+    background: #017bab;
+}
+
+#cuerpo{
+    width: 830px;
+    height: 340px;
+    background: #4FE7EC;
+    margin: auto;
+    margin-top: 120px;
+}
+
+table {
+    width:100%;
+}
+#tr1 {
+    display: none;
+}
+
+
